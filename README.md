@@ -2,15 +2,16 @@
 
 **Chaos Unleashed** | Proprietary tooling (overview only; source code is private)
 
-Tools and techniques for cutting Core Web Vitals on an e-commerce storefront, plus the
-measurement discipline to prove the gains are real. Built during an engagement that took a
-heavy storefront from a mobile load time of roughly 21 seconds down to roughly 4 seconds.
+Tools and techniques for cutting Core Web Vitals on any website, plus the measurement
+discipline to prove the gains are real. The techniques are page-agnostic and apply to any
+site with a heavy front end; they were first built and proven on a content-heavy commercial
+site, taking its mobile load time from roughly 21 seconds down to roughly 4 seconds.
 
 ## The problem
 
-A slow storefront costs conversions, and the usual "fixes" often just game the synthetic
-score without making the site genuinely faster for real shoppers. The brief here was
-explicit: improve *real-world* speed, not the number on a report.
+A slow site costs engagement, conversions, and search ranking, and the usual "fixes" often
+just game the synthetic score without making the site genuinely faster for real users. The
+brief here was explicit: improve *real-world* speed, not the number on a report.
 
 ## What this toolkit does
 
